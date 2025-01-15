@@ -1,1 +1,1 @@
-# danon 30
+Hi, i'm Danila Kochetkov - aka danon 30
