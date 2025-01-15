@@ -10,3 +10,4 @@ Danon30/README.md
 - ![Python](https://img.shields.io/badge/-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
